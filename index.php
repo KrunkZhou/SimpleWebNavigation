@@ -90,7 +90,7 @@ $site_title="网址导航";
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
-<link href="https://krunk.cn/krunk/sdk/ZUI/css/zui.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://api.krunk.cn/krunk/sdk/ZUI/css/zui.min.css" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" href=" css/style.css">
 <link rel="stylesheet" href=" css/iconfont.css">
 <link rel="stylesheet" href=" css/fontawesome.css">
@@ -189,7 +189,7 @@ $site_title="网址导航";
     </div>
     
     <!-- jQuery (ZUI Require jQuery) -->
-    <script src="https://krunk.cn/krunk/sdk/jquery-3.4.1.min.js"></script>
+    <script src="https://api.krunk.cn/krunk/sdk/jquery-3.4.1.min.js"></script>
 
     <script src="js/main.js"></script>
     
